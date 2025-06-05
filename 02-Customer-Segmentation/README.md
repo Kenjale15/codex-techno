@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project is part of my data analyst internship at **Cidex Techno**. The goal is to perform **customer segmentation** for an e-commerce business using clustering techniques. By grouping customers based on purchasing behavior, the business can target different segments with personalized marketing strategies.
+This project is part of my data analyst internship at **Codex Techno**. The goal is to perform **customer segmentation** for an e-commerce business using clustering techniques. By grouping customers based on purchasing behavior, the business can target different segments with personalized marketing strategies.
 
 ## 🔧 Tools & Technologies Used
 
