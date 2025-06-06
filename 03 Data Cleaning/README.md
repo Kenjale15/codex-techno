@@ -22,8 +22,7 @@ A fully cleaned dataset ready for:
 - Predictive modeling  
 
 ## 📷 Screenshots  
-
-
+ Screenshot (https://github.com/Kenjale15/codex-techno/blob/main/03%20Data%20Cleaning/boxplot.png)
 
 ## 🔗 Let's Connect!
 - [Connect with me on LinkedIn] (https://www.linkedin.com/in/shravani-kenjale-784590326/)
