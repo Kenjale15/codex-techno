@@ -1,5 +1,5 @@
 #    Data Cleaning Project – Airbnb NYC 2019  
-###  Internship Project – C0dex Techno
+###  Internship Project – Codex Techno
 
 ## 📌 Objective
 The goal of this project is to clean a real-world dataset (Airbnb listings in NYC) by identifying and handling:
