@@ -22,7 +22,7 @@ A fully cleaned dataset ready for:
 - Predictive modeling  
 
 ## 📷 Screenshots  
-"D:\codex techno project\3rd--Data Cleaning\Python code\boxplot.png" 
+
 
 
 ## 🔗 Let's Connect!
