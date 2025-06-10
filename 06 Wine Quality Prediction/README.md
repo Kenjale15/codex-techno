@@ -19,4 +19,4 @@ This project focuses on predicting the quality of wine based on its chemical pro
 ## 📌 Author
 
 **Shravani Kenjale**    
-🔗 [LinkedIn](https://www.linkedin.com/in/shravani-kenjale-784590326/ 
+🔗 [LinkedIn](https://www.linkedin.com/in/shravani-kenjale-784590326/)
