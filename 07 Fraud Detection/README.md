@@ -16,8 +16,4 @@ This project aims to build a machine learning model to detect fraudulent transac
 - Building classification models for rare-event prediction
 - Evaluating models with proper fraud metrics
 
-## 📌 Author
-
-**Shravani Kenjale**  
-Aspiring Data Analyst | LinkedIn: [Shravani Kenjale] 
 
